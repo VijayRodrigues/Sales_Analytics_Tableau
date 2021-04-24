@@ -25,7 +25,8 @@ I have used **Tableau Desktop trial version** (14 days only) but you can also do
 
 ## Result of Dashboard 
 
-The screenshot belows shoes combination of all sheet results into a single dashboard
+The screenshot belows shows combination of all sheet results into a single dashboard.
+You can select differet years / combinations and compare the results. 
   
 ![TableauDashboardfinal](https://user-images.githubusercontent.com/72039550/115949871-83328100-a4f5-11eb-936c-ebe8854fc265.jpg)
 
