@@ -10,7 +10,7 @@ I have made use of Tableau Desktop Trial verison, where I have added cards, filt
 The dataset is in the form of csv with about 10k rows and have chosen extract option rather than live for this dashboard.
 
 You can directly refer to my Tableau Public profile to view as well. 
-https://public.tableau.com/profile/vijay.rodrigues#!/
+https://public.tableau.com/app/profile/vijay.rodrigues/viz/DiscountMartSalesAnalytics_16192428586720/Dashboard1
 
 
 ## Installation and Tools Used
